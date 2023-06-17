@@ -10,3 +10,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+This is a space for collaborative projects between the hackathon team "Angry Bits" from Krasnodar and their friends. The founders of the team are [Igor Gakhov](https://github.com/IgorGakhov), [Daniil Gorbenko](https://github.com/daniilgorbenko) and [Alexander Radchenko](https://github.com/Karkyn1).
